@@ -1,5 +1,9 @@
 # Personal Trainer with TinyML
 
+<p align="center">
+  <img width="460" height="300" src="https://github.com/ricardomdcj/Personal-Trainer-with-TinyML/blob/main/Images/3D%20Casing.png">
+</p>
+
 ![alt text](https://github.com/ricardomdcj/Personal-Trainer-with-TinyML/blob/main/Images/3D%20Casing.png)
 
 ### This project aims to help people by acting as a personal trainer during your training sessions by using TinyML to identify when and if an exercise is being done correctly or not.
