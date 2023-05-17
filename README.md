@@ -1,7 +1,7 @@
 # Personal Trainer with TinyML
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/ricardomdcj/Personal-Trainer-with-TinyML/blob/main/Images/3D%20Casing.png">
+   src="https://github.com/ricardomdcj/Personal-Trainer-with-TinyML/blob/main/Images/3D%20Casing.png">
 </p>
 
 ![alt text](https://github.com/ricardomdcj/Personal-Trainer-with-TinyML/blob/main/Images/3D%20Casing.png)
