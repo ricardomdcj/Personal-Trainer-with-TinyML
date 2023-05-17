@@ -13,6 +13,6 @@ Edge Impulse public version: [https://studio.edgeimpulse.com/studio/226947](http
 
 Presentation on youtube: [https://www.youtube.com/watch?v=jJEjJ86v2P0](https://www.youtube.com/watch?v=jJEjJ86v2P0) (subtitled)
 
-PDF used in the presentation: 
+PDF used in the presentation: [https://github.com/ricardomdcj/Personal-Trainer-with-TinyML/blob/main/PDF](https://github.com/ricardomdcj/Personal-Trainer-with-TinyML/blob/main/PDF/Developing%20a%20personal%20trainer%20through%20TinyML.pdf)
 
 
