@@ -15,4 +15,6 @@ Presentation on youtube: [https://www.youtube.com/watch?v=jJEjJ86v2P0](https://w
 
 PDF used in the presentation: [https://github.com/ricardomdcj/Personal-Trainer-with-TinyML/blob/main/PDF](https://github.com/ricardomdcj/Personal-Trainer-with-TinyML/blob/main/PDF/Developing%20a%20personal%20trainer%20through%20TinyML.pdf)
 
+Article published on Hackster.io website? [https://www.hackster.io/ricardomdcj/developing-a-personal-trainer-using-tinyml-172001](https://www.hackster.io/ricardomdcj/developing-a-personal-trainer-using-tinyml-172001)
+
 
